@@ -1,0 +1,3 @@
+berikut merupakan source code hasil latihan Tugas 2 APPL
+yang meliputi 5 nomor dengan 5 topik berbeda yaitu nomor 3,
+nomor 5, nomor 6, nomor 7, dan nomor 8.
